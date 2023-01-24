@@ -217,104 +217,104 @@
 "../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 216
 "../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 217
 "../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 218
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 219
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 220
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 221
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 222
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.ubulk" 223
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 224
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 225
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.ubulk" 226
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 227
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 228
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.ubulk" 229
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 230
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 231
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.ubulk" 232
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 233
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 234
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.ubulk" 235
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 236
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 237
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.ubulk" 238
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 239
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 240
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 241
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 242
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 243
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 244
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 245
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 246
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 247
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 248
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 249
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 250
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 251
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 252
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 253
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 254
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 255
-"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 256
-"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 257
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 258
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 259
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 260
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 261
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 262
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 263
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 264
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 265
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 266
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 267
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 268
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 269
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 270
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 271
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 272
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 273
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 274
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 275
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 276
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 277
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 278
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 279
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 280
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 281
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 282
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 283
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 284
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 285
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 286
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 287
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 288
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 289
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 290
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 291
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 292
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 293
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 294
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 295
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 296
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 297
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 298
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 299
-"../../../Engine/Content/BasicShapes/Plane.ubulk" 300
-"../../../Engine/Content/BasicShapes/Plane.uasset" 301
-"../../../Engine/Content/BasicShapes/Plane.uexp" 302
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 303
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 304
-"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 305
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 306
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 307
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 308
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 309
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 310
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 311
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 312
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 313
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 314
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 315
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 316
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 220
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 222
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 224
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 225
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 226
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 227
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 228
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.ubulk" 229
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 230
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 231
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.ubulk" 232
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 233
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 234
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.ubulk" 235
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 236
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 237
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.ubulk" 238
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 239
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 240
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.ubulk" 241
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 242
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 243
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.ubulk" 244
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 245
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 246
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 247
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 248
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 249
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 250
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 251
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 252
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 253
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 254
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 257
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 259
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 261
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 262
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 263
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 264
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 265
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 266
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 267
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 268
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 269
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 270
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 271
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 272
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 273
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 274
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 275
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 276
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 277
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 278
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 279
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 280
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 281
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 282
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 283
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 284
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 285
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 286
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 287
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 289
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 290
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 291
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 292
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 293
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 294
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 295
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 296
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 297
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 298
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 299
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 300
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 303
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 304
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 305
+"../../../Engine/Content/BasicShapes/Plane.ubulk" 306
+"../../../Engine/Content/BasicShapes/Plane.uasset" 307
+"../../../Engine/Content/BasicShapes/Plane.uexp" 308
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 309
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 310
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 311
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 312
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 313
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 314
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 315
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 316
 "../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 317
 "../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 318
 "../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 319
@@ -2317,32 +2317,32 @@
 "R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Explosion01.ubulk" 2316
 "R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Explosion01.uasset" 2317
 "R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Explosion01.uexp" 2318
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Burst_M.ubulk" 2319
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Burst_M.uasset" 2320
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Burst_M.uexp" 2321
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_Burst.uasset" 2322
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_Burst.uexp" 2323
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 2324
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 2325
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 2326
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 2327
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 2328
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 2329
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 2330
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 2331
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 2332
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/P_Explosion.uasset" 2333
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/P_Explosion.uexp" 2334
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Explosion_Cue.uasset" 2335
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Explosion_Cue.uexp" 2336
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 2337
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 2338
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse02.ubulk" 2339
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse02.uasset" 2340
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse02.uexp" 2341
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse01.ubulk" 2342
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse01.uasset" 2343
-"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse01.uexp" 2344
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse02.ubulk" 2319
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse02.uasset" 2320
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse02.uexp" 2321
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse01.ubulk" 2322
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse01.uasset" 2323
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Collapse01.uexp" 2324
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Burst_M.ubulk" 2325
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Burst_M.uasset" 2326
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Burst_M.uexp" 2327
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_Burst.uasset" 2328
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_Burst.uexp" 2329
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 2330
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 2331
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 2332
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 2333
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 2334
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 2335
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 2336
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 2337
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 2338
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/P_Explosion.uasset" 2339
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Particles/P_Explosion.uexp" 2340
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Explosion_Cue.uasset" 2341
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Audio/Explosion_Cue.uexp" 2342
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 2343
+"R:/Game Jams/EPIC/EpicJamAUSBHellTest/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 2344
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 2345
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 2346
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 2347
